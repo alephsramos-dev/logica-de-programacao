@@ -91,12 +91,7 @@ logica-de-programacao/
 | 40  | Fatorial com Procedimento                    | [`40_fatorial_com_procedimento`](projects/40_fatorial_com_procedimento)       |
 | 41  | Área / Altura / Perímetro / Largura          | [`41_area_altura_perimetro_largura`](projects/41_area_altura_perimetro_largura) |
 | 42  | Somando com Funções                          | [`42_somando_com_funcoes`](projects/42_somando_com_funcoes)                   |
-
----
-
-## 🛡️ Licença
-
-Distribuído sob a [MIT License](LICENSE).  
+ 
 
 ---
 
